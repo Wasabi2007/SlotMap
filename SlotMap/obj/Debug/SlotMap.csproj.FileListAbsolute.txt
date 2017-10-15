@@ -1,0 +1,6 @@
+i:\users\jerry\documents\visual studio 2015\Projects\SlotMap\SlotMap\bin\Debug\SlotMap.exe.config
+I:\Users\Jerry\Documents\Visual Studio 2015\Projects\SlotMap\SlotMap\bin\Debug\SlotMap.exe
+I:\Users\Jerry\Documents\Visual Studio 2015\Projects\SlotMap\SlotMap\bin\Debug\SlotMap.pdb
+I:\Users\Jerry\Documents\Visual Studio 2015\Projects\SlotMap\SlotMap\obj\Debug\SlotMap.csprojResolveAssemblyReference.cache
+I:\Users\Jerry\Documents\Visual Studio 2015\Projects\SlotMap\SlotMap\obj\Debug\SlotMap.exe
+I:\Users\Jerry\Documents\Visual Studio 2015\Projects\SlotMap\SlotMap\obj\Debug\SlotMap.pdb

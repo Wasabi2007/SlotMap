@@ -28,16 +28,16 @@ namespace SlotMap
 
 			public static Color operator* (Color col, double rh)
 			{
-				col.r += rh;
-				col.g += rh;
-				col.b += rh;
-				col.a += rh;
+				col.r *= rh;
+				col.g *= rh;
+				col.b *= rh;
+				col.a *= rh;
 
 				return col;
 			}
 		}
 
-		public struct Color_class
+		public class Color_class
 		{
 			public double r;
 			public double g;
@@ -54,10 +54,10 @@ namespace SlotMap
 
 			public static Color_class operator *(Color_class col, double rh)
 			{
-				col.r += rh;
-				col.g += rh;
-				col.b += rh;
-				col.a += rh;
+				col.r *= rh;
+				col.g *= rh;
+				col.b *= rh;
+				col.a *= rh;
 
 				return col;
 			}
